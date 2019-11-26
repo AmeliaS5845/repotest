@@ -5,3 +5,5 @@
 * After I open it I will write steps into the README.md file
 * After I do get init to intialize it i needt to remote add and push the file into github
 * Finally I will add the read me file and ythen commit it on github
+
+Hello humans
